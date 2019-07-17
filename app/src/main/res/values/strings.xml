@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">tallerAndroidMaterial</string>
     <string name="action_settings">Settings</string>
+    <string name="nombreProducto">Producto</string>
+    <string name="precioProducto">Precio</string>
 </resources>
